@@ -95,7 +95,10 @@ nav a {
 /* main section styles */
 
 
-
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
 
 /* about section styles */
 
@@ -118,4 +121,11 @@ nav a {
     color: #757575;
     text-align: center;
     font-family: Open Sans;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
 }
