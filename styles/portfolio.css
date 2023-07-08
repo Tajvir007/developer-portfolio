@@ -9,6 +9,7 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin: 0 200px;
 }
 
 .nav-title {
@@ -41,11 +42,30 @@ nav>ul {
 nav li {
     list-style: none;
     margin-right: 50px;
-    
+
 }
 
 nav a {
     text-decoration: none;
     color: #474747;
-   
+
+}
+
+/* header related style */
+.header {
+    background: #FFF8F3;
+}
+
+/* banner related style */
+.banner {
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+
+.tajvir-image {
+    /* width: 584px;
+    height: 620px;
+    flex-shrink: 0; */
+    width: 500px;
 }
