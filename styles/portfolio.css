@@ -1,8 +1,7 @@
 /* common shared style */
-/* body {
-
-    font-family: 'Raleway', sans-serif;
-} */
+body{
+    font-family: 'Open Sans', sans-serif;
+}
 
 /* nav related style */
 nav {
@@ -85,7 +84,7 @@ nav a {
 }
 
 .banner-title {
-    font-size: 65px;
+    font-size: 60px;
     font-weight: 700px;
     margin-top: 5px;
     margin-bottom: 20px;
